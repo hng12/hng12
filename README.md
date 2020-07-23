@@ -2,7 +2,7 @@ Hi!
 
 I'm a co-owner at [Extremez - Roblox](https://www.youtube.com/channel/UCFsgCD5Vk_RIzo0WXNxA4HQ).
 
-[![My Github Stats](github-stats-card.vercel.app/https://github-stats-card.vercel.app/api?username=Genrymg)](https://henry12.me)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 Links:
 My Website: [Click Here](https://henry12.me)
