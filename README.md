@@ -9,4 +9,6 @@ My Website: [Click Here](https://henry12.me)
 
 My bot website (work in progress): [Click here](https://wisemanbot.tk)
 
-Contact:Discord: HN#0012
+Contact:
+
+Discord: HN#0012
